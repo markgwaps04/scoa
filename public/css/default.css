@@ -1,0 +1,4 @@
+/* General Demo Style */
+
+*, .grid figcaption span:after, .grid figcaption span:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+

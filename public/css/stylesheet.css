@@ -1,0 +1,377 @@
+@media only screen and (max-width: 900px){
+
+
+
+    .attachment .file-preview-frame.krajee-default.kv-preview-thumb{
+
+        width: 100%;
+
+    }
+
+    .file-preview-video{
+
+        max-height: 120px !important;
+
+    }
+
+}
+
+
+
+.file-box{
+    width: 163px !important;
+}
+.textarea-org{
+
+    min-width: 100%;
+    max-width:100%;
+    height: auto;
+    min-height: 100px;
+    border-radius: 5px;
+    border: none;
+
+
+}
+
+.post-box button {
+
+    margin: 0px 0px 2px 2px;
+
+}
+
+.post-box {
+
+    padding-top: 0px;
+    overflow: hidden;
+
+}
+
+.note-editor.note-frame{
+
+    border: 0px;
+
+}
+.overlayZ{
+
+    z-index: 99999;
+    background: #333333b8;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+
+}
+.post-box-overlay{
+
+    z-index: 999999;
+    position: relative;
+
+}
+.option {
+
+    margin-left: 6px;
+
+    margin-right: 6px;
+
+}
+
+.file-box{
+
+    width: 93px !important;
+
+}
+.file .image{
+
+    height: inherit;
+
+}
+
+.file{
+
+    margin-right: 4px !important;
+
+}
+
+.attachment .file-preview-frame.krajee-default.kv-preview-thumb{
+
+    /*width: unset;*/
+
+}
+
+.file-preview-frame.krajee-default.kv-preview-thumb  {
+
+
+    width: 17%;
+    min-height: 120px !important;
+    max-height: 120px !important;
+    height: auto;
+    overflow: hidden;
+    box-sizing: unset !important;
+    position: relative;
+    left: -8px;
+    clear: top;
+
+
+}
+.btn-file {
+
+    display: none;
+
+}
+.file-other-icon {
+
+    font-size: 58px !important;
+
+}
+
+
+.krajee-default.file-preview-frame {
+
+    margin: 2px;
+
+}
+.file-preview{
+
+    padding: 10px 10px 0px 10px !important;
+
+}
+
+.krajee-default.file-preview-frame .kv-file-content{
+
+    width : auto !important;
+    height: auto !important;
+    max-height: 120px !important;
+
+}
+.file-drop-zone{
+
+    border: none;
+    border-radius: 0px;
+    height: auto;
+    text-align: inherit;
+    vertical-align: inherit;
+    margin: inherit;
+    padding: 0px;
+
+
+
+}
+.file-preview {
+
+    border: none;
+    padding: 0px;
+
+
+}
+.file-footer-caption {
+
+    display: none !important;
+
+}
+
+.krajee-default.file-preview-frame .file-thumbnail-footer{
+
+    height: auto;
+    max-height: 120px !important;
+    min-height: 0px !important;
+    margin-top: 4px !important;
+    position: absolute;
+    bottom: 0px;
+    width: 92%;
+    bottom: 4px;
+
+}
+.file-drop-zone-title {
+
+    display: none
+
+}
+
+
+.kv-file-content .kv-preview-data.file-preview-other-frame{
+
+    width: 100% !important;
+    height: auto !important;
+    max-height: 120px !important;
+
+
+
+}
+
+.kv-file-content iframe {
+
+    width: 100% !important;
+    height: 100% !important;
+    max-height: inherit;
+
+}
+
+
+.file-preview-image.kv-preview-data:not(.file-zoom-detail) {
+
+    max-height: 85px !important;
+
+}
+.kv-file-content .kv-preview-data.file-preview-pdf {
+
+    width: 100% !important;
+    height: 78px !important;
+    max-height: 120px !important;
+
+
+}
+.kv-preview-data.file-preview-audio{
+
+    width: 100% !important;
+    height: 100% !important;
+    min-height: 67px !important;
+
+}
+.close.fileinput-remove{
+
+    display: none;
+
+}
+.file-drop-zone{
+
+    margin: -3px;
+
+}
+.file-upload-margin {
+
+    margin: -11px;
+
+}
+
+.file_upload_padding {
+
+    padding: 0px 0px 10px 10px;
+
+}
+
+#content {
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+    background-color: #fff;
+}
+
+@media (min-width: 600px) {
+    body {
+        background-color: #e7e7e7;
+        padding: 0;
+    }
+
+    #content {
+        width: 60%;
+        margin: 20px auto;
+        padding: 20px 40px 30px 40px;
+        -webkit-box-shadow: 0 0 20px 0 #999;
+        -moz-box-shadow: 0 0 20px 0 #999;
+        box-shadow: 0 0 20px 0 #999;
+    }
+}
+
+
+
+.coverphoto {
+    padding: 5px;
+}
+
+.coverphoto > img { width: 100%; }
+
+#controls { margin-bottom: 40px; }
+
+#controls button {
+    margin: 0 5px;
+    min-width: 40px;
+    color: #555;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 30px;
+}
+
+#controls button:hover { color: #333; }
+
+#data {
+    list-style: none;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+#data .column {
+    display: inline-block;
+    margin: 0 15px;
+}
+
+#data li {
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-align: left;
+}
+
+#data span {
+    display: inline-block;
+    font-weight: normal;
+}
+
+
+.attachment .file-thumbnail-footer{
+
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+
+
+}
+
+.attachment .kv-file-zoom{
+
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+
+}
+
+.attachment .kv-file-download {
+
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 2;
+
+}
+
+.krajee-default .file-caption-info, .krajee-default .file-size-info{
+
+    width: 100%;
+    height: 100%;
+    white-space: pre-wrap;
+
+}
+
+
+
+.attachment .file-footer-caption{
+
+    display: block !important;
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    margin-bottom: 0;
+    padding-top: 0;
+
+
+}
+
+.background-masker {
+
+    background: #ffffff !important;
+
+}
+
+

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c0e50db-5c22-428e-a07c-5d870dd15590" name="Default" comment="">
+      <change afterPath="$APPLICATION_CONFIG_DIR$/consoles/db/b90e3ea2-f73e-481d-82d5-7631ffa1e52c/console.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>renewal_id</find>
+      <find>isEmpty</find>
+      <find>async</find>
+      <find>tempath</find>
+      <find>Dropzone</find>
+      <find>plugins/dropzone/dropzone.js</find>
+      <find>asyncR</find>
+      <find>Cover</find>
+      <find>image</find>
+      <find>image_cropper</find>
+      <find>wizard</find>
+      <find>body</find>
+      <find>Com</find>
+      <find>Comon method</find>
+      <find>your organization is not been approved</find>
+      <find>modal-</find>
+      <find>add</find>
+      <find>Submit a checklist</find>
+      <find>No organization yet ?</find>
+      <find>user_index_join_org</find>
+      <find>Organization Details</find>
+      <find>position</find>
+      <find>update_</find>
+      <find>The page you requested cannot be displayed right now. it may be temporarily unavailable, the link you clicked on may be broken or expired, or you may not have permission to view this page.</find>
+      <find>Approved</find>
+      <find>_member</find>
+      <find>member_stat</find>
+      <find>approved_member</find>
+      <find>members</find>
+      <find>approved_</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>fa-chevron-down</replace>
+      <replace>Organization</replace>
+      <replace>'</replace>
+      <replace>$user_details</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\SCOA\app</dir>
+      <dir>C:\xampp\htdocs\SCOA</dir>
+      <dir>C:\wamp64\www\SCOA</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/public/js/scoa/scoa-create-org-by-admin.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/models/post.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/models/Users.php" root0="SKIP_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/js/scoa/scoa_reminders.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test.php" root0="SKIP_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/public/js/scoa/mention.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/models/club.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/models/request/club_auth.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/controllers/templating.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/included_template/misc/club_dashboard.tpl" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/models/request/post_auth.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/css/scoa.css" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/models/reminders.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/models/request/checklist_auth.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/included_template/misc/content_feeds.tpl" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/js/scoa/inbox.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/js/scoa/scoa-graph.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/views/admin/index/misc/inbox_view.tpl" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/views/admin/index/misc/addOrg.tpl" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/views/admin/index/view_profile.tpl" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/views/Misc/print_reports_.tpl" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/views/Misc/print_reports.tpl" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/views/Users/login/user_register.tpl" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/models/sms.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/views/Users/login/user_login.tpl" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/js/scoa/dashboard.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/js/scoa/scoa_user_dashboard.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/public/js/scoa/scoa_fs.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/js/scoa/scoa_print_reports.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/included_template/admin/admin_org_info.tpl" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/included_template/admin/admin_index.tpl" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/included_template/user/user_index_create_org.tpl" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/core/Misc.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/controllers/abstract/global_controller.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/views/Misc/newFS.tpl" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/models/request/user_auth.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/views/admin/index/newfeeds.tpl" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/public/js/scoa/scoa_newfs.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/public/js/scoa_validate_account.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/included_template/user/user_index_structure.tpl" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/public/js/scoa/user_index_account.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/views/admin/index/org_info.tpl" root0="FORCE_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/models/request/scoa_organization_request.php" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/js/scoa/admin_org_info.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/controllers/scoa_organization.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/included_template/user/user_index_org_members_structure.tpl" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/public/css/scoa_default.css" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/core/smarty_config.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/js/scoa.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/public/included_template/user/user_index_account.tpl" root0="SKIP_INSPECTION" root1="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/app/core/App.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/app/views/admin/index/request.tpl" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/public/js/scoa/scoa-notification.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/js/scoa/scoa_request_groups.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/public/js/scoa/scoa_admin_account.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1s9OfSLH1ixMGKCa9mrTyOM4wnX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/wamp64/www/SCOA/app/controllers/organization.php&#10;init.p&#9;FILE&#9;file://C:/wamp64/www/SCOA/app/init.php&#10;{&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last.edited.regexp" value="9106739114" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSLint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\SCOA\public\css\plugins\bootstrap-tagsinput" />
+      <recent name="C:\wamp64\www\SCOA\public\js\plugins\bootstrap-tagsinput" />
+      <recent name="C:\wamp64\www\SCOA\public\js" />
+      <recent name="C:\wamp64\www\SCOA\public\css\plugins" />
+      <recent name="C:\wamp64\www\SCOA\public\js\plugins\pspdf" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\SCOA\app\views\Users\misc" />
+      <recent name="C:\laragon\www\SCOA\app\views\Users\home" />
+      <recent name="C:\laragon\www\SCOA" />
+      <recent name="C:\wamp64\www\SCOA\app\views\Users\misc" />
+      <recent name="C:\wamp64\www\SCOA\app\views" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.test.php (1)">
+    <configuration name="Renewal.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SCOA/app/models/Renewal.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.php (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SCOA/test.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SCOA/app/core/test.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="weel.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SCOA/public/weel.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.weel.php" />
+      <item itemvalue="JavaScript Debug.Renewal.php" />
+      <item itemvalue="JavaScript Debug.test.php" />
+      <item itemvalue="JavaScript Debug.test.php (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.test.php (1)" />
+        <item itemvalue="JavaScript Debug.test.php" />
+        <item itemvalue="JavaScript Debug.Renewal.php" />
+        <item itemvalue="JavaScript Debug.weel.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c0e50db-5c22-428e-a07c-5d870dd15590" name="Default" comment="" />
+      <created>1548041190830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548041190830</updated>
+      <workItem from="1548041192190" duration="46566000" />
+      <workItem from="1548132025879" duration="45629000" />
+      <workItem from="1548218588482" duration="44216000" />
+      <workItem from="1548308078925" duration="27371000" />
+      <workItem from="1548384462792" duration="42162000" />
+      <workItem from="1548486612834" duration="31069000" />
+      <workItem from="1548560686150" duration="47037000" />
+      <workItem from="1548648770531" duration="38434000" />
+      <workItem from="1548735959678" duration="38059000" />
+      <workItem from="1548823808415" duration="40692000" />
+      <workItem from="1548914364195" duration="29486000" />
+      <workItem from="1549001338963" duration="45961000" />
+      <workItem from="1549084512898" duration="38893000" />
+      <workItem from="1549173301776" duration="34772000" />
+      <workItem from="1549255036749" duration="54350000" />
+      <workItem from="1549330686900" duration="38643000" />
+      <workItem from="1549426433389" duration="46486000" />
+      <workItem from="1549519098527" duration="50625000" />
+      <workItem from="1549599854902" duration="38797000" />
+      <workItem from="1549667774004" duration="45206000" />
+      <workItem from="1549775119726" duration="63341000" />
+      <workItem from="1549850832633" duration="24738000" />
+      <workItem from="1549953442454" duration="44276000" />
+      <workItem from="1550030178433" duration="27028000" />
+      <workItem from="1550065773812" duration="15985000" />
+      <workItem from="1550117383297" duration="49723000" />
+      <workItem from="1550206643967" duration="12938000" />
+      <workItem from="1550298336884" duration="32232000" />
+      <workItem from="1550376979299" duration="42981000" />
+      <workItem from="1550468267950" duration="26856000" />
+      <workItem from="1550543353330" duration="41647000" />
+      <workItem from="1550656669893" duration="62072000" />
+      <workItem from="1550770547401" duration="9867000" />
+      <workItem from="1550803879272" duration="41514000" />
+      <workItem from="1550905345103" duration="2125000" />
+      <workItem from="1550922020771" duration="136995000" />
+      <workItem from="1551161258970" duration="226365000" />
+      <workItem from="1551507389342" duration="106599000" />
+      <workItem from="1551654622864" duration="23116000" />
+      <workItem from="1551508738118" duration="601000" />
+      <workItem from="1551509935647" duration="37872000" />
+      <workItem from="1551571778738" duration="30074000" />
+      <workItem from="1551628379280" duration="55730000" />
+      <workItem from="1551747377496" duration="1102000" />
+      <workItem from="1551749010013" duration="104182000" />
+      <workItem from="1551915476147" duration="16551000" />
+      <workItem from="1551941574543" duration="154000" />
+      <workItem from="1551947367861" duration="4157000" />
+      <workItem from="1552057280363" duration="3929000" />
+      <workItem from="1552062859208" duration="9910000" />
+      <workItem from="1552088280290" duration="64527000" />
+      <workItem from="1552212981544" duration="37111000" />
+      <workItem from="1552280164423" duration="54617000" />
+      <workItem from="1552356212649" duration="42133000" />
+      <workItem from="1552405950884" duration="59589000" />
+      <workItem from="1552486945396" duration="110591000" />
+      <workItem from="1552706776011" duration="21026000" />
+      <workItem from="1552741219814" duration="8186000" />
+      <workItem from="1552802037530" duration="117014000" />
+      <workItem from="1552993096627" duration="3274000" />
+      <workItem from="1552999667743" duration="2569000" />
+      <workItem from="1553006088112" duration="8006000" />
+      <workItem from="1553016306587" duration="95521000" />
+      <workItem from="1553247899074" duration="1176000" />
+      <workItem from="1553438555294" duration="110815000" />
+      <workItem from="1553492379183" duration="12572000" />
+      <workItem from="1553517334586" duration="13057000" />
+      <workItem from="1553568594320" duration="50097000" />
+      <workItem from="1553847046475" duration="114246000" />
+      <workItem from="1554048754078" duration="9290000" />
+      <workItem from="1522537827783" duration="2494000" />
+      <workItem from="1522543164996" duration="27000" />
+      <workItem from="1522543763235" duration="15352000" />
+      <workItem from="1554097314230" duration="3456000" />
+      <workItem from="1554197210123" duration="8351000" />
+      <workItem from="1554249302226" duration="5384000" />
+      <workItem from="1554481971518" duration="384000" />
+      <workItem from="1554484360959" duration="98198000" />
+      <workItem from="1554811422176" duration="48910000" />
+      <workItem from="1554989906429" duration="5197000" />
+      <workItem from="1555080303856" duration="71288000" />
+      <workItem from="1555265565177" duration="1474000" />
+      <workItem from="1555417318211" duration="17061000" />
+      <workItem from="1555479153161" duration="6244000" />
+      <workItem from="1555666664590" duration="11395000" />
+      <workItem from="1555752834247" duration="23699000" />
+      <workItem from="1555809518191" duration="1616000" />
+      <workItem from="1555817929043" duration="45499000" />
+      <workItem from="1556073080707" duration="23985000" />
+      <workItem from="1556194365057" duration="5873000" />
+      <workItem from="1556241029603" duration="13803000" />
+      <workItem from="1556298307047" duration="997000" />
+      <workItem from="1556335827585" duration="5743000" />
+      <workItem from="1556447514802" duration="23099000" />
+      <workItem from="1556590183957" duration="4490000" />
+      <workItem from="1556810788502" duration="2068000" />
+      <workItem from="1557061443483" duration="30891000" />
+      <workItem from="1557285567556" duration="13020000" />
+      <workItem from="1557584161518" duration="4337000" />
+      <workItem from="1557653882033" duration="191000" />
+      <workItem from="1557654871762" duration="3267000" />
+      <workItem from="1557662187583" duration="1398000" />
+      <workItem from="1557669121124" duration="1412000" />
+      <workItem from="1557672865888" duration="339000" />
+      <workItem from="1557673319652" duration="631000" />
+      <workItem from="1557678001836" duration="15351000" />
+      <workItem from="1557723886517" duration="2933000" />
+      <workItem from="1557731364972" duration="6981000" />
+      <workItem from="1557755547247" duration="1381000" />
+      <workItem from="1557764690597" duration="3287000" />
+      <workItem from="1557790373313" duration="4061000" />
+      <workItem from="1557802355653" duration="3540000" />
+      <workItem from="1557852239721" duration="846000" />
+      <workItem from="1557881801012" duration="8676000" />
+      <workItem from="1557982438086" duration="1564000" />
+      <workItem from="1558004146783" duration="1710000" />
+      <workItem from="1558174861584" duration="1117000" />
+      <workItem from="1558178471956" duration="6252000" />
+      <workItem from="1558228021434" duration="12121000" />
+      <workItem from="1558248367623" duration="27955000" />
+      <workItem from="1558344937956" duration="1107000" />
+      <workItem from="1558360918902" duration="2932000" />
+      <workItem from="1558500523669" duration="352000" />
+      <workItem from="1558501183150" duration="126000" />
+      <workItem from="1558534762179" duration="4698000" />
+      <workItem from="1558595646631" duration="275000" />
+      <workItem from="1558661489877" duration="77000" />
+      <workItem from="1558682194231" duration="3172000" />
+      <workItem from="1558752044706" duration="1355000" />
+      <workItem from="1558762367949" duration="22624000" />
+      <workItem from="1558835030623" duration="2322000" />
+      <workItem from="1558874001319" duration="5318000" />
+      <workItem from="1558889779559" duration="3739000" />
+      <workItem from="1558918511942" duration="293000" />
+      <workItem from="1558935812295" duration="1441000" />
+      <workItem from="1559017465916" duration="589000" />
+      <workItem from="1559023838730" duration="9827000" />
+      <workItem from="1559042610388" duration="2352000" />
+      <workItem from="1559045646969" duration="1910000" />
+      <workItem from="1559048064945" duration="13878000" />
+      <workItem from="1559087958964" duration="12515000" />
+      <workItem from="1559117059139" duration="2670000" />
+      <workItem from="1559122900998" duration="206000" />
+      <workItem from="1559123135764" duration="23845000" />
+      <workItem from="1559176434943" duration="18919000" />
+      <workItem from="1559198450499" duration="7612000" />
+      <workItem from="1559208514085" duration="11989000" />
+      <workItem from="1620281443588" duration="3544000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="796" y="386" key="git4idea.rebase.GitRebaseDialog" timestamp="1620282820847">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="796" y="386" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1620282820847" />
+    <state x="774" y="419" key="git4idea.ui.GitResetDialog" timestamp="1620282829289">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="774" y="419" key="git4idea.ui.GitResetDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1620282829289" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

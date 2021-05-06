@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../vendor/font-awesome/fonts/open-sans-v15-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Open Sans Regular'), local('OpenSans-Regular'),
+    url('../vendor/font-awesome/fonts/open-sans-v15-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8*?*/
+    url('../vendor/font-awesome/fonts/open-sans-v15-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */        url('../vendor/font-awesome/fonts/open-sans-v15-latin-regular.woff') format('woff'), /* Modern Browsers */
+    url('../vendor/font-awesome/fonts/open-sans-v15-latin-regular.ttf') format('truetype'), /* Safari AndroidiOS */
+    url('../vendor/font-awesome/fonts/open-sans-v15-latin-regular.svg#OpenSans') format('svg'); /* Legacy iOS */
+url('../vendor/font-awesome/fonts/mem5YaGs126MiZpBA-UN_r8OUuhp.woff2') format('woff2'), /* Super Modern Browsers */
+url('../vendor/font-awesome/fonts/mem5YaGs126MiZpBA-UN7rgOUuhp.woff2') format('woff2'), /* Super Modern Browsers */
+url('../vendor/font-awesome/fonts/mem5YaGs126MiZpBA-UNirkOUuhp.woff2') format('woff2'), /* Super Modern Browsers */
+url('.../vendor/font-awesome/fonts/mem8YaGs126MiZpBA-UFVZ0b.woff2') format('woff2'), /* Super Modern Browsers */
+} /* open-sans-italic - latin */
